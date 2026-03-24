@@ -2,7 +2,7 @@
 
 Abaixo estão os prompts estruturados para garantir que a IA execute tarefas complexas com precisão.
 
-## Prompt de Qualificação de Leads
+## Projeto 1: Qualificação de Leads
 **Técnica:** Persona + Saída Estruturada.
 
 ```text
@@ -12,10 +12,11 @@ Critérios:
 - Morno: Interesse real sem urgência imediata.
 - Frio: Curiosidade ou spam.
 Saída: Status, Nota (0-10) e Justificativa curta.
+```
+## Projeto 2: Sistema Ético (Recrutamento)
+**Técnica:** Blind Screening + Restrições Rígidas.
 
-Prompt de Sistema Ético (Recrutamento)
-Técnica: Blind Screening + Restrições Rígidas.
-
+```text
 Atue como Especialista em Recrutamento Ético. 
 Regra Crítica: Ignore nome, gênero, idade, etnia e universidade. 
 Foco: Avalie apenas competências técnicas e experiências comprovadas. 
