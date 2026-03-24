@@ -2,7 +2,7 @@
 
 A estrutura de automação foi desenhada para garantir escalabilidade e baixo custo de manutenção.
 
-![Diagrama de Workflow](Workflow_Automacao_Qualificacao_Leads.jpg)
+![Diagrama de Workflow](Workflow_Automacao_Qualificacao_Leads.png)
 
 ## Fluxo de Dados (Triagem de Leads)
 
