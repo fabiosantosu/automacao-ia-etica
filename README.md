@@ -17,6 +17,6 @@ Design de um agente de IA para triagem inicial de currículos em tecnologia, pro
 * **Diferencial:** Implementação de Blind Screening e IA Explicável (XAI).
 
 ## 📂 Organização do Repositório
-* `/docs/arquitetura`: Detalhamento técnico dos módulos e diagramas.
-* `/docs/prompt-engineering`: Documentação dos system prompts e lógica de instrução.
-* `/docs/governanca-etica`: Análise de viabilidade e conformidade legal (LGPD).
+* [Arquitetura Técnica](./docs/Arquitetura.md): Detalhamento dos módulos e diagramas.
+* [Engenharia de Prompt](./docs/Engenharia_de_Prompt.md): Documentação dos system prompts e lógica de instrução.
+* [Governança e LGPD](./docs/Governanca_e_LGPD.md): Análise de viabilidade e conformidade legal (LGPD).
